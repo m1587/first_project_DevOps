@@ -1,0 +1,9 @@
+elasticsearch>=7.0.0
+requests>=2.27.0
+Flask>=2.0.0
+itsdangerous>=2.0.0
+Jinja2>=3.0.0
+MarkupSafe>=2.0.0
+requests>=2.27.0
+urllib3>=1.26.0
+Werkzeug>=2.0.0
